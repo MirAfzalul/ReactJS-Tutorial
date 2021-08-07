@@ -12,7 +12,7 @@ function App() {
       <Greets name= "bashar">
         <button>Click me</button>
         </Greets>
-      <Welcome name= "Mir"/>
+      <Welcome name= "MIR"/>
       {/* <Hello/> */}
     </div>
   );
