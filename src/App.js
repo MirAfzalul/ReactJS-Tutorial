@@ -8,16 +8,16 @@ import Counter from './components/Counter';
 function App() {
   return (
     <div className="App">
-      {/* <Greets name= "asif" >
+      <Greets name= "asif" >
       <p>This is a paragraph</p>
       </Greets>
       <Greets name= "bashar">
         <button>Click me</button>
          </Greets>
-      <Welcome name= "MIR"/>
+      {/* <Welcome name= "MIR"/>
       <Hello/> */}
       {/* <Message/> */}
-      <Counter/>
+      {/* <Counter/> */}
     </div>
   );
 }
